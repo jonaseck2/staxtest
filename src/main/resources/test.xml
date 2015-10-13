@@ -1,0 +1,12 @@
+<emp:employee xmlns:emp="urn:corp:emp">
+	<emp:personInfo>
+		<emp:empID>E0000001</emp:empID>
+		<emp:secID>S001</emp:secID>
+		<emp:name>John Smith</emp:name>
+	</emp:personInfo>
+	<emp:personInfo>
+		<emp:empID>E0000002</emp:empID>
+		<emp:secID>S002</emp:secID>
+		<emp:name>Ichiro Tanaka</emp:name>
+	</emp:personInfo>
+</emp:employee>
